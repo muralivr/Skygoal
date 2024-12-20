@@ -1,5 +1,5 @@
-import React from 'react';
-import CustomerTable from './components/CustomerTable';
+import React from "react";
+import CustomerTable from "./components/CustomerTable";
 
 function App() {
   return (
